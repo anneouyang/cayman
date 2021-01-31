@@ -1,8 +1,8 @@
 google-ID: ''
 
 menu:
-- {name: 'About', path: '.', url: ''}
-- {name: 'Blog', path: '.', url: 'blog'}
+- {name: 'About', path: '.', url: 'https://www.anneouyang.com/'}
+- {name: 'Blog', path: '.', url: 'https://www.anneouyang.com/blog'}
 
 social:
 - {icon: 'envelope', link: 'mailto:anne.ouyang@gmail.com'}
